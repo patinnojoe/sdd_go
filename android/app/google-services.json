@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994256679586",
+    "project_id": "sdd-go-app",
+    "storage_bucket": "sdd-go-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994256679586:android:48874ea682cc4997ac9dfb",
+        "android_client_info": {
+          "package_name": "com.example.sdd_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994256679586-ilr74hb7gjr8grpfj2imnkqccto8kj20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-cu1orB0HLZO3bWfqh2QJYkVVywAI8h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994256679586-ilr74hb7gjr8grpfj2imnkqccto8kj20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

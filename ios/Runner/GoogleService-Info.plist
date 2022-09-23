@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>994256679586-kdhs34h977eeqh6ne0lvnge8mlr2j1jb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.994256679586-kdhs34h977eeqh6ne0lvnge8mlr2j1jb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPgtWgBp8Urb2D3okmTIBGENFVY0JuO40</string>
+	<key>GCM_SENDER_ID</key>
+	<string>994256679586</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sddGo</string>
+	<key>PROJECT_ID</key>
+	<string>sdd-go-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sdd-go-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:994256679586:ios:e1fec16fde501380ac9dfb</string>
+</dict>
+</plist>
